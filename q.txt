@@ -1,0 +1,61 @@
+691c3395a3acda10945a6397e4c6195acf4d8a39
+Add files via upload
+
+version 2.0 correccion de graficas para los procesos de monitoreo y despliegue
+Luis1FO
+Index.py  has changed
+Index.cpython-310.pyc  has changed
+app.cpython-310.pyc  has changed
+data.cpython-310.pyc  has changed
+layouts.cpython-310.pyc  has changed
+app.py  has changed
+callbacks.py  has changed
+data.py  has changed
+layouts.py  has changed
+0c9d51adde84e412fe234c656fdc53d9f4af41e2
+Create README.md
+Luis1FO
+README.md  has changed
+4023e25cd9d4f07bc8b5a1254bb601e2a3bbd265
+Create django.yml
+
+prueba de despliegue inicial
+Luis1FO
+django.yml  has changed
+b02ddfcf0ad4dde8342b0580df79cbd36a0083ed
+se va
+Luis1FO
+django.yml  has changed
+53f9e20c31d905c176924aea52e8440ff5dce812
+se va
+Luis1FO
+Index.cpython-310.pyc  has changed
+ab711de3e775bc8a94a2e0033b6f56e31e641325
+SE VA
+Luis1FO
+app.cpython-310.pyc  has changed
+f85cf9909eaf7a0610b1516e0932fa62c1d9e782
+SE VA
+Luis1FO
+data.cpython-310.pyc  has changed
+71b11848c3943b8e1f7be613b6779914ca14b0ff
+SE VA
+Luis1FO
+layouts.cpython-310.pyc  has changed
+7dd8287870f354fa06c54dc4565686e0c664e90f
+se anexa prototipo de imagen
+Luis1FO
+app.py  has changed
+c24f899062da031cc0e609b95efba98d0e22df0a
+se anexa prototipo de imagen
+Luis1FO
+Index.py  has changed
+callbacks.py  has changed
+data.py  has changed
+layouts.py  has changed
+8481aa13d4892138852b2367afe7af22f2e58817
+prototipo de imagen
+Luis1FO
+d2.png  has changed
+devops.png  has changed
+logo.png  has changed
